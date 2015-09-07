@@ -6,7 +6,7 @@ From the project home folder, run
 ```
 vagrant up
 ```
-Then for the command execution to complete. This will download a Vagrant box and initialize it in Virtualbox. 
+Then wait for the command execution to complete. This will download a Vagrant box and initialize it in Virtualbox. 
 Once the VM is up, Vagrant will connect through SSH and execute two commands:
 ```
 #generates Eclipse project files in the mounted /vagrant folder
